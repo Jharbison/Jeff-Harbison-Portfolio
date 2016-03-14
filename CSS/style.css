@@ -94,3 +94,15 @@ h2 {
 }
 
 
+.social {
+  margin-right: 1em;
+  text-align: center;
+  padding-left: 0;
+}
+.contact-text {
+	margin-top: 2rem;
+}
+.social > li {
+	display: inline-block;
+	padding: 0.6em;
+}
