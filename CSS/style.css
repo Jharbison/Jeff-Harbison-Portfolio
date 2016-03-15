@@ -80,7 +80,8 @@ h2 {
   position: relative;
   width: 45%;
   display: inline-block;
-  margin: 1em;
+  margin: 20px 2.5%;
+  float: left;
 }
 .projects li img {
 	display: block;
