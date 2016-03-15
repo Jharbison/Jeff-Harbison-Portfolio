@@ -82,19 +82,11 @@ h2 {
   display: inline-block;
   margin: 20px 2.5%;
   float: left;
+  height: 400px;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center center;
 }
-.projects li img {
-	display: block;
-	width: 100%;
-}
-.projects li.left {
-	float: left;
-}
-.projects li.right {
-	float: right;
-}
-
-
 .social {
   margin-right: 1em;
   text-align: center;
